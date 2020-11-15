@@ -1,1 +1,1 @@
-# Replication-of-Baxter-et-al
+This is a replication of the paper Baxter et al from 1991 in Python. The code takes about 3 hours to run in Google Cloud's instance with 1 GPU and 24 vCPUs. It will take more time to run on a usualy PC.
